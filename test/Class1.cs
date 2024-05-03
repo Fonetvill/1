@@ -21,6 +21,10 @@ namespace test
             prosmotrTovarov.Show();
             this.Hide();
 
+            Команда для обновления данных
+
+             UPDATE таблица SET поле = значение
+
             Авторизация 
 
        {
@@ -441,6 +445,6 @@ namespace Aromatiy
 }
         */
 
-        
+
     }
 }
